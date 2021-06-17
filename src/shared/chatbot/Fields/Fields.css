@@ -1,0 +1,27 @@
+.Fields-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .Option-button {
+    padding: 0.5rem;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid orangered;
+    margin: 3px;
+  }
+  .Option-button:hover {
+    padding: 0.5rem;
+    border-radius: 25px;
+    background:  orangered ;
+    color: azure;
+    cursor: pointer;
+  }
+  .Option-button:focus{
+    padding: 0.5rem;
+    border-radius: 25px;
+    background:  orangered ;
+    color: azure;
+    cursor: pointer;
+  }
